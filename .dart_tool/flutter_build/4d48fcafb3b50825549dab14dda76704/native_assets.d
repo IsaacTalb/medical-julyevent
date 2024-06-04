@@ -1,0 +1,1 @@
+ /Users/isaactalb/development/Github\ Repo\ Project/medical_julyevent/.dart_tool/flutter_build/4d48fcafb3b50825549dab14dda76704/native_assets.yaml: 
