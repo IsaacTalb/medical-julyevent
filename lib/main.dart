@@ -1,36 +1,48 @@
 import 'package:flutter/material.dart';
-import 'package:medical_julyevent/screen/splash_screen.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:provider/provider.dart';
+import 'firebase/firebase_auth.dart'; // Add this import
+import 'package:auth_service.dart';
+import 'screen/home_screen.dart';
+import 'screen/login-screen.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'My App',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
+    return ChangeNotifierProvider(
+      create: (_) => AuthService(),
+      child: MaterialApp(
+        title: 'My App',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        home: AuthWrapper(),
       ),
-      home: SplashScreen(),
-      routes: {
-        '/home': (context) => HomeScreen(), // Define your HomeScreen widget
-      },
     );
   }
 }
 
-class HomeScreen extends StatelessWidget {
+class AuthWrapper extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('Home Screen'),
-      ),
-      body: Center(
-        child: Text('Welcome to the Home Screen!'),
-      ),
+    final authService = Provider.of<AuthService>(context);
+    return StreamBuilder<User?>(
+      stream: authService.user,
+      builder: (context, snapshot) {
+        if (snapshot.connectionState == ConnectionState.waiting) {
+          return CircularProgressIndicator();
+        } else if (snapshot.hasData) {
+          return HomeScreen();
+        } else {
+          return LoginScreen();
+        }
+      },
     );
   }
 }
