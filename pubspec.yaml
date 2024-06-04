@@ -32,6 +32,9 @@ dependencies:
     sdk: flutter
   flutter_native_splash: ^2.0.6+1
   cupertino_icons: ^1.0.6
+  firebase_core: latest_version
+  firebase_auth: latest_version
+  provider: latest_version
 
 dev_dependencies:
   flutter_test:

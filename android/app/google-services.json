@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211933692101",
+    "project_id": "medical-julyevent",
+    "storage_bucket": "medical-julyevent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211933692101:android:8e661f4d0c401924b670ac",
+        "android_client_info": {
+          "package_name": "com.cwb.Medical_Herb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjw5SSzzQPa70FswGfsXgMQ6tpSFiIKUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
