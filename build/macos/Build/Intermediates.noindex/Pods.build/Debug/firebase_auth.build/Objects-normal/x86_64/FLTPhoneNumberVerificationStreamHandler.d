@@ -1,0 +1,75 @@
+dependencies: \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/build/macos/Build/Intermediates.noindex/Pods.build/Debug/firebase_auth.build/module.modulemap \
+  /Users/isaactalb/.pub-cache/hosted/pub.dev/firebase_auth-4.20.0/macos/Classes/FLTPhoneNumberVerificationStreamHandler.m \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/Target\ Support\ Files/firebase_auth/firebase_auth-prefix.pch \
+  /Users/isaactalb/.pub-cache/hosted/pub.dev/firebase_auth-4.20.0/macos/Classes/Private/FLTPhoneNumberVerificationStreamHandler.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Modules/module.modulemap \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterMacOS.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterAppDelegate.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterAppLifecycleDelegate.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterMacros.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterChannels.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterCodecs.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterDartProject.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterEngine.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterPluginRegistrarMacOS.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterPlatformViews.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterPluginMacOS.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterTexture.h \
+  /Users/isaactalb/Downloads/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterViewController.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/Headers/Public/Firebase/Firebase.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FirebaseAuth.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAuth.build/module.modulemap \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/Target\ Support\ Files/FirebaseAuth/FirebaseAuth-umbrella.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRActionCodeSettings.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAdditionalUserInfo.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthCredential.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthDataResult.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthSettings.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthTokenResult.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthUIDelegate.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIREmailAuthProvider.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFacebookAuthProvider.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFederatedAuthProvider.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGameCenterAuthProvider.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGitHubAuthProvider.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGoogleAuthProvider.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactor.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorAssertion.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorSession.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorResolver.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthCredential.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthProvider.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTwitterAuthProvider.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUser.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserInfo.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserMetadata.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthCredential.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthProvider.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorAssertion.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorGenerator.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorInfo.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPMultiFactorAssertion.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPMultiFactorGenerator.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPSecret.h \
+  /Users/isaactalb/.pub-cache/hosted/pub.dev/firebase_auth-4.20.0/macos/Classes/Public/firebase_auth_messages.g.h \
+  /Users/isaactalb/.pub-cache/hosted/pub.dev/firebase_auth-4.20.0/macos/Classes/Public/FLTFirebaseAuthPlugin.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/build/macos/Build/Intermediates.noindex/Pods.build/Debug/firebase_core.build/module.modulemap \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/Target\ Support\ Files/firebase_core/firebase_core-umbrella.h \
+  /Users/isaactalb/.pub-cache/hosted/pub.dev/firebase_core-2.32.0/macos/Classes/FLTFirebaseCorePlugin.h \
+  /Users/isaactalb/.pub-cache/hosted/pub.dev/firebase_core-2.32.0/macos/Classes/FLTFirebasePlugin.h \
+  /Users/isaactalb/.pub-cache/hosted/pub.dev/firebase_core-2.32.0/macos/Classes/messages.g.h \
+  /Users/isaactalb/.pub-cache/hosted/pub.dev/firebase_core-2.32.0/macos/Classes/FLTFirebasePluginRegistry.h

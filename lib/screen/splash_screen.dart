@@ -23,14 +23,15 @@ class _SplashScreenState extends State<SplashScreen>
       parent: _controller,
       curve: Curves.easeInOut,
     );
-    _navigateToHome();
+
+    // Delay navigation until after the splash animation completes
+    Future.delayed(const Duration(seconds: 4), () {
+      _navigateToLogin(context);
+    });
   }
 
-  void _navigateToHome() async {
-    await Future.delayed(const Duration(seconds: 4));
-    if (mounted) {
-      Navigator.pushReplacementNamed(context, '/home');
-    }
+  void _navigateToLogin(BuildContext context) {
+    Navigator.pushReplacementNamed(context, '/login');
   }
 
   @override

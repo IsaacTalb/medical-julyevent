@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAuth.build/module.modulemap \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Storage/FIRAuthKeychainServices.m \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Storage/FIRAuthKeychainServices.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponent.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRDependency.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRLogger.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuth_Internal.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Interop/FIRAuthInterop.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Storage/FIRAuthUserDefaults.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthErrorUtils.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/isaactalb/development/Github-repo-project/medical_julyevent/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthInternalErrors.h
